@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Всемирная Россия 2018</string>
+    <string name="desa">РАЗРАБОТЧИКИ</string>
+    <string name="estudi">СТУДЕНТ ИНГ. СИСТЕМЫ</string>
+    <string name="salir">выход</string>
+    <string name="mas">более</string>
+    <string name="ini">инициирование</string>
+    <string name="estadi">стадион</string>
+    <string name="part">спички</string>
+    <string name="acerca">о</string>
+    <string name="sede">штаб-квартира</string>
+    <string name="aforo">емкость</string>
+    <string name="ubicacion">место</string>
+    <string name="local">Местная команда</string>
+    <string name="ub1">Остров Октябрьский</string>
+    <string name="ub2">Центральный парк</string>
+    <string name="ub3">Чистопольская улица</string>
+    <string name="ub4">Крестовский остров</string>
+    <string name="ub5">Грибной канал</string>
+    <string name="ub6">Олимпийский парк</string>
+    <string name="ub7">Бассейн реки Изар</string>
+    <string name="ub8">Реки Ока и Волга</string>
+    <string name="ub9">Улица Репина</string>
+    <string name="ub10">Спортивный комплекс «Лужники»</string>
+    <string name="ub11">Район Радиоцентра</string>
+    <string name="ub12">Тушино</string>
+</resources>

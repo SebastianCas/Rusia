@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Monde Russie 2018</string>
+    <string name="desa">DÉVELOPPEURS</string>
+    <string name="estudi">ÉTUDIANT ING. SYSTÈMES</string>
+    <string name="salir">Sortir</string>
+    <string name="mas">Plus</string>
+    <string name="ini">Accueil</string>
+    <string name="estadi">Stadium</string>
+    <string name="part">Matches</string>
+    <string name="acerca">à propos de</string>
+    <string name="sede">Siège</string>
+    <string name="aforo">Capacité</string>
+    <string name="ubicacion">Localisation</string>
+    <string name="local">Équipe locale</string>
+    <string name="ub1">Île d\'Oktyabrsky</string>
+    <string name="ub2">Central Park</string>
+    <string name="ub3">Rue Chistopolskaya</string>
+    <string name="ub4">Krestovsky Island</string>
+    <string name="ub5">Gribnoy Channel</string>
+    <string name="ub6">Parc olympique</string>
+    <string name="ub7">Bassin de la rivière Isar</string>
+    <string name="ub8">Les rivières Oka et Volga</string>
+    <string name="ub9">Repin Street</string>
+    <string name="ub10">Luzhniki Complexe sportif</string>
+    <string name="ub11">District de Radiotsentr</string>
+    <string name="ub12">Tushino</string>
+</resources>

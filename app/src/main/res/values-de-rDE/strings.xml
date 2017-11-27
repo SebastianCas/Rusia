@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Welt Russland 2018</string>
+    <string name="desa">ENTWICKLER</string>
+    <string name="estudi">STUDENT ING. SYSTEME</string>
+    <string name="salir">Ausgang</string>
+    <string name="mas">Mehr</string>
+    <string name="ini">Startseite</string>
+    <string name="estadi">Stadion</string>
+    <string name="part">Spiele</string>
+    <string name="acerca">über</string>
+    <string name="sede">Hauptsitz</string>
+    <string name="aforo">Kapazität</string>
+    <string name="ubicacion">Standort</string>
+    <string name="local">Lokales Team</string>
+    <string name="ub1">Insel Oktjabrski</string>
+    <string name="ub2">Zentraler Park</string>
+    <string name="ub3">Chistopolskaya Straße</string>
+    <string name="ub4">Krestowskij Insel</string>
+    <string name="ub5">Gribnoj-Kanal</string>
+    <string name="ub6">Olympischer Park</string>
+    <string name="ub7">Isar-Flussbecken</string>
+    <string name="ub8">Flüsse Oka und Wolga</string>
+    <string name="ub9">Repin Straße</string>
+    <string name="ub10">Luzhniki Sportanlage</string>
+    <string name="ub11">Bezirk von Radiotsentr</string>
+    <string name="ub12">Tuschino</string>
+</resources>
